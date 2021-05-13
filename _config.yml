@@ -1,9 +1,8 @@
 # Site settings
 name: Daniel Le
 email: sonhailenguyen@gmail.com
-#canonical_url: https://edwinexemplar.com
-keywords: "Software Engineer, Python, Machine Learning"
-skills: "Software Engineer"
+keywords: "Software Developer, Python, iOS"
+skills: "Software Developer"
 baseurl:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
