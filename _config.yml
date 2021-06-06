@@ -24,8 +24,8 @@ bing_verify: E1786FBC3A3BAFC5BF6F28B4E0654ADB
 color:
   primary: 2196F3
   primary-rgb: "33, 150, 243"
-  secondary: 285172
-  secondary-dark: e4ffe1
+  secondary: e4ffe1
+  secondary-dark: 29455b
   section-tout: eaf1f1
 
 # Build settings
