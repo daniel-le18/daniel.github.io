@@ -3,7 +3,7 @@ name: Daniel Le
 email: sonhailenguyen@gmail.com
 keywords: "Software Developer, Python, iOS"
 skills: "Software Developer"
-baseurl: daniel-le.com
+baseurl:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
