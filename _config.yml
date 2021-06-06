@@ -22,9 +22,9 @@ bing_verify: E1786FBC3A3BAFC5BF6F28B4E0654ADB
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: C6E2E9
-  secondary: 463F3A
-  secondary-dark: 8A817C
+  primary: C6E0FF
+  secondary: 0B2545
+  secondary-dark: 8DA9C4
   section-tout: eaf1f1
 
 # Build settings
